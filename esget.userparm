@@ -1,0 +1,1 @@
+UserParameter=esget[*],/etc/zabbix/esget.py $1 $2
